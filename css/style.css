@@ -43,11 +43,11 @@ body,
 input,
 button,
 textarea {
-    font-weight: 500;
     font-family: Poppins;
     font-size: 1.6rem;
     color: var(--color-text-base);
 }
+font-weight: 500;
 
 #container {
     width: 90vw;
