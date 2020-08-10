@@ -125,7 +125,7 @@
 
     #page-give-classes #schedule-items .select-block + .input-block,
     #page-give-classes #schedule-items .input-block+.input-block {
-        margin-top: 0;
+        margin-top: 0 !important;
     }
 
     #page-give-classes main footer {
